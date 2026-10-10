@@ -191,7 +191,7 @@
     <string name="tpb_unsafe_reason">由于监管不力，存在较多恶意软件投诉。</string>
     <string name="therarbg_unsafe_reason">原始 RARBG 的克隆站，充斥大量虚假种子。请谨慎使用。</string>
     <string name="search_filter_chip_hide_viewed">隐藏已浏览</string>
-    <string name="search_filter_chip_search_providers">搜索源</string>
+    <string name="search_filter_chip_search_providers">数据源</string>
     <string name="search_state_results_not_found_description">在 %2$s 中，没有找到与“%1$s”匹配的种子。请尝试其他关键词，或检查搜索源是否已启用。</string>
     <string name="search_button_go_to_providers">前往搜索源设置</string>
     <string name="browse_button_go_to_providers">前往搜索源设置</string>
