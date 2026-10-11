@@ -131,7 +131,7 @@
     <string name="torrent_status_file_not_found">File torrent tidak ditemukan di sumber mana pun</string>
     <string name="torrent_status_file_saving">Menyimpan file torrent…</string>
     <string name="torrent_status_file_saved">File torrent tersimpan</string>
-    <string name="search_filter_chip_search_providers">Cari penyedia</string>
+    <string name="search_filter_chip_search_providers">Penyedia</string>
     <string name="search_filter_providers_action_select_all">Pilih semua</string>
     <string name="search_filter_providers_action_deselect_all">Batalkan semua pilihan</string>
     <string name="search_filter_providers_action_invert_selection">Balikkan pilihan</string>
@@ -239,4 +239,25 @@
     <string name="bookmarks_no_bookmarks_matched">Tidak ada penanda yang cocok</string>
     <string name="settings_group_content_and_privacy">Konten &amp; privasi</string>
     <string name="settings_group_network">Jaringan</string>
+    <string name="torrent_title_magnet_link">Tautan magnet</string>
+    <string name="torrent_title_torrent_file">Berkas torrent</string>
+    <string name="torrent_title_details_page">Halaman detail</string>
+    <string name="torrent_status_magnet_link_ready">Ketuk untuk membuka di klien torrent</string>
+    <string name="torrent_status_file_preparing_link">Menyiapkan tautan unduhan…</string>
+    <string name="torrent_status_file_waiting_magnet_link">Menunggu tautan magnet…</string>
+    <string name="torrent_status_file_link_ready">Ketuk untuk memulai unduhan</string>
+    <string name="torrent_status_details_ready">Ketuk untuk melihat detail</string>
+    <string name="torrent_status_unavailable">Tidak tersedia</string>
+    <string name="home_status_providers_checking">Memeriksa penyedia…</string>
+    <string name="home_status_providers_check_failed">Pemeriksaan penyedia gagal</string>
+    <string name="home_status_providers_check_failed_subtitle">Terjadi kesalahan</string>
+    <string name="home_status_providers_check_complete">Pemeriksaan penyedia selesai</string>
+    <string name="home_message_please_wait">Harap tunggu</string>
+    <string name="search_error_status_retrying">Mencoba lagi…</string>
+    <string name="search_error_status_resolved">Terselesaikan</string>
+    <string name="search_providers_state_protection_status_update_failed">Terjadi kesalahan</string>
+    <string name="settings_show_recent_searches">Tampilkan pencarian terbaru</string>
+    <string name="settings_show_recent_searches_summary">Lihat 5 pencarian terakhir Anda di layar utama</string>
+    <string name="settings_check_providers">Periksa penyedia saat aplikasi dimulai</string>
+    <string name="settings_check_providers_summary">Memeriksa akses ke penyedia dan memberi tahu jika ada yang perlu dibuka blokirnya</string>
 </resources>
