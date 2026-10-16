@@ -135,7 +135,7 @@
     <string name="torrent_status_file_download_failed">فشل التنزيل</string>
     <string name="torrent_status_file_saving">جارٍ حفظ ملف التورنت…</string>
     <string name="torrent_status_file_saved">تم حفظ ملف التورنت</string>
-    <string name="search_filter_chip_search_providers">مزودّو البحث</string>
+    <string name="search_filter_chip_search_providers">المزودّون</string>
     <string name="search_filter_providers_action_select_all">تحديد الكل</string>
     <string name="search_filter_providers_action_deselect_all">إلغاء تحديد الكل</string>
     <string name="search_filter_providers_action_invert_selection">عكس التحديد</string>
@@ -210,4 +210,27 @@
     <string name="search_providers_state_challenge_solve_error_description">لم أتمكن من حل التحدي. تأكد من توفر اتصال الإنترنت وحاول مرة أخرى.</string>
     <string name="search_providers_state_updating_protection_status">جارٍ تحديث حالة الحماية…</string>
     <string name="search_providers_state_protection_status_update_complete">تم فتح %1$d، و %2$d تحتاج للفتح</string>
+    <string name="torrent_title_magnet_link">رابط الماغنيت</string>
+    <string name="torrent_title_torrent_file">ملف التورنت</string>
+    <string name="torrent_title_details_page">صفحة التفاصيل</string>
+    <string name="torrent_status_magnet_link_loading">جاري الحصول على الرابط. . .</string>
+    <string name="torrent_status_magnet_link_error">لم يتم الحصول على الرابط</string>
+    <string name="torrent_status_magnet_link_ready">انقر للفتح في برنامج التورنت</string>
+    <string name="torrent_status_file_preparing_link">جارٍ تحضير رابط التنزيل. . .</string>
+    <string name="torrent_status_file_waiting_magnet_link">في انتظار رابط الماغنيت. . .</string>
+    <string name="torrent_status_file_link_ready">انقر لبدء التنزيل</string>
+    <string name="torrent_status_file_download_complete">تم التنزيل بنجاح</string>
+    <string name="torrent_status_details_ready">انقر لعرض التفاصيل</string>
+    <string name="torrent_status_unavailable">غير متاح</string>
+    <string name="torrent_button_save_to_file">حفظ في ملف</string>
+    <string name="home_title_enable_search_providers">تمكين مزوّدو البحث</string>
+    <string name="home_search_providers_not_enabled_msg">لم يتم تمكين أي من مزوّدو البحث بعد. هل تريد تمكين المزوّدين الموصى بهم؟</string>
+    <string name="home_button_enable">تمكين</string>
+    <string name="home_button_i_will_choose_myself">سأختار نفسي</string>
+    <string name="home_title_recent_searches">عمليات البحث الأخيرة</string>
+    <string name="home_status_providers_checking">جاري التحقق من مزوّدي البحث. . .</string>
+    <string name="home_status_providers_check_failed">فشل التحقق من مزوّدي البحث</string>
+    <string name="home_status_providers_check_failed_subtitle">حدث خطأ ما</string>
+    <string name="home_status_providers_check_complete">تم الانتهاء من فحص مزوّدو البحث</string>
+    <string name="home_message_please_wait">يرجى الانتظار</string>
 </resources>
